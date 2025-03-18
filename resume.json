@@ -1,0 +1,164 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Jessie Stiles",
+    "label": "Engineering Technician",
+    "image": "",
+    "email": "jessiestiles68@gmail.com",
+    "phone": "(864) 202-5569",
+    "summary": "Driven engineering technician with a wide range of experience in system design, industrial robotics, control systems, and continuous improvement with experience ranging from contract small scale manufacturing to large scale industry. I excel in bridging the gap between design and implementation, having had ample experience working with both production and engineering staff. Eager for new skillsets, projects and techniques.",
+    "location": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Portfolio",
+        "username": "Portfolio",
+        "url": "https://jessiestiles.github.io/portfolio1.github.io/index.html"
+      },
+      {
+        "network": "Github",
+        "username": "JessieStiles",
+        "url": "https://github.com/JessieStiles"
+      },
+      {
+        "network": "LinkedIn",
+       "username": "Jessie Stiles",
+       "url": "www.linkedin.com/in/jessie-stiles"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "C&W Services",
+      "location": "San Francisco, CA",
+      "description": "robotics",
+      "position": "Mechatronics and Robotics Technician",
+      "startDate": "2025-02-01",
+      "summary": "Installation and maintenance of automation and robotic systems at an Amazon facility.",
+      "highlights": [
+        "PLCs and control logic",
+        "Conveyers and MHE",
+        "Repair and programming of autonomous mobile robots"
+       ]
+    },
+   {
+    "name": "Machinic Garden LLC",
+    "location": "Liberty, SC",
+    "description": "Small scale manufacturing and prototyping services",
+    "position": "Cofounder",
+    "startDate": "2022-01-01",
+    "summary": "Contract engineering and manufacturing services. Specialized in prototype development and integrating a wide-array of machining and production processes.",
+    "highlights": [
+      "3D-printing (mSLA, SLA, FDM)",
+      "CAD and FEA",
+      "Molding and casting processes",
+      "Electrical testing (EoL PCB testing, through hole and SMT soldering, DMM/oscilloscope/VNA analyzer)"
+    ]
+  },
+    {
+    "name": "Tradesmen International",
+    "location": "Spartanburg,SC",
+    "description": "",
+    "position": "Precision Millwright",
+    "startDate": "2022-09-01",
+    "endDate": "2024-01-01",
+    "summary": "Worked as an industrial contractor, handling various mechanical, electrical, and automation tasks at large-scale facilities",
+    "highlights": [
+      "Configured stress testing for wind turbines. Installed and calibrated a variety of sensors including lasers, accelerometers, and ultrasonic equipment.",
+      "Implementation and troubleshooting of low and medium voltage systems",
+      "Fluid and temperature control",
+      "PLCS and Industrial Control Systems",
+      "Material Handling Equipment"
+    ]
+  }
+  ],
+  "volunteer": [
+    {
+      "organization": "Cleo Bailey Experiment",
+      "url": "https://www.cleobailey.org/",
+      "startDate": "2021-03-01",
+      "summary": "Community garden project in Anderson, SC. They coordinate with various churches and food banks, host community events, and are actively working on building renovations to further support the local community.",
+      "highlights": [
+        "Coordinated with Clemson university organizations and volunteer groups, assisted in project management and direction of volunteer efforts and community events.",
+        "Assisted in the design and implementation of various irrigation systems, rainwater collection and distribution, and gardening methods.",
+        "Implemented remote sensor monitoring for temperature, humidity, and water collection; integrated with irrigation.",
+        "Currently refining process for hydroponics system and mycology collection."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Greenville Technical College",
+      "url": "https://www.gvltec.edu/?utm_source=google&utm_medium=search&utm_campaign=brand&gad_source=1&gclid=CjwKCAjw8rW2BhAgEiwAoRO5rK4Tk180mp2toPx4YLFrbI8A9xcXgtPJmF25zRWfuMXxX2ymT2DFghoCW6IQAvD_BwE",
+      "area": "Mechatronics",
+      "studyType": "Certification",
+      "startDate": "2023-05-01",
+      "endDate": "2024-05-01",
+      "score": "3.72 GPA",
+      "courses": [
+        "Hydraulics and Pneumatics",
+        "Mechanical Power Applications",
+        "Motor Controls",
+        "Sensors and System Interfacing"
+      ]
+    },
+    {
+      "institution": "Tri-County Technical College",
+      "url": "https://www.tctc.edu/",
+      "area": "Arts",
+      "studyType": "Associate",
+      "startDate": "2019-09-01",
+      "endDate": "2021-06-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "OpenSauce 2024 Presenter",
+      "date": "2024-06-16",
+      "awarder": "Daly City, California",
+      "url": "https://opensauce.com/",
+      "summary": "An event for engineers, student groups, open source developers, makers, and startups to exhibit something they've been working on. You hear my application on the Safety Third podcast here: https://www.youtube.com/watch?v=NeMPYlnSd-g&t=5884s"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Electronics",
+      "keywords": [
+        "Power electronics",
+        "Servo motor control and VFDs",
+        "Industrial PLC controllers",
+        "Programming robot manipulators",
+        "Embedded PCB testing",
+        "Designing test fixtures."
+      ]
+    },
+    {
+      "name": "Mechanical",
+      "keywords": [
+        "3D printing (SLA, MSLA, FDM)",
+        "Fluid power systems",
+        "Instrumentation",
+        "Process calibration",
+        "Machining."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Zephaniah Smith (704) 439-6308",
+      "reference": "Founder of Cleo Bailey Experiment."
+    },
+    {
+      "name": "Lucy Moglia (864) 617-4908",
+      "reference": "Engineer at Machinic Garden and Atopile Research Fellow."
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/sample.resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
